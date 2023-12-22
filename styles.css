@@ -1,0 +1,53 @@
+:root{
+    --main-color:rgba(238, 82, 21, 0.832);
+}
+
+
+
+
+html {
+  background-color: aliceblue;
+  width: 100%;
+  height: 100%;
+}
+
+h1 {
+  text-align: center;
+  display: inline-flex;
+  justify-content: space-around;
+  width: 100%;
+  height: 40px;
+  margin: 10px auto 0 auto;
+  font-size: 1.2rem;
+  font-family: roboto-slab, sans-serif;
+  font-weight: 700;
+  
+}
+
+h1 div a {
+  padding: 0 20px 0 10px;
+  text-decoration: none;
+  color: #444444;
+  text-shadow: 2px 2px 3px #44444465 ;
+}
+ 
+#logo img{
+height: 100%;
+width: 100%;
+}
+
+#register-button{
+padding: 10px;
+color: antiquewhite;
+background-color: var(--main-color);
+border-radius: 4px;
+box-shadow: 2px 2px 3px #44444465 ;
+}
+
+#section1 {
+width: 50%;
+}
+
+#section1{
+    
+}
